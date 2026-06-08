@@ -26,3 +26,4 @@ The goal was to replicate and expand on a SQL analysis to explore price trends a
 - Python 3.14
 - Pandas
 - VS Code
+- Matplotlib
