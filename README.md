@@ -35,7 +35,7 @@ The goal was to replicate and expand on a SQL analysis to explore price trends a
 - Average price increases consistently with bedroom count up to 8 bedrooms
 
 ## Tools Used
-- Python 3.14
+- Python 3.13
 - Pandas
 - VS Code
 - Matplotlib
