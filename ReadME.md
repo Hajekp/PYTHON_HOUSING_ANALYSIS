@@ -16,6 +16,18 @@ The goal was to replicate and expand on a SQL analysis to explore price trends a
 4. How does average price change by bedroom count?
 5. How are listings distributed across price tiers?
 
+## Visuals
+
+### Top 10 Cities by Average Home Price
+![Top 10 Cities by Average Home Price](charts/top10_cities_avg_price.png)
+
+### Price Tier Distribution
+![Price Tier Distribution](charts/price_tiers.png)
+
+### Average Price by Bedroom Count
+![Average Price by Bedroom Count](charts/avg_price_by_bedrooms.png)
+
+
 ## Key Findings
 - Newport Coast has the highest average home price at $1.8M
 - San Diego has the most listings with 707, nearly double Los Angeles at 388
